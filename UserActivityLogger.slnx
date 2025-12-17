@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UserActivityLogger.Tests/UserActivityLogger.Tests.csproj" />
+  <Project Path="UserActivityLogger/UserActivityLogger.csproj" />
+</Solution>
